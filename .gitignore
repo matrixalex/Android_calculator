@@ -12,7 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
-
+/.idea/
 
 # Compiled class file
 *.class
